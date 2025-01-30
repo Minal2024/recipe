@@ -1,3 +1,5 @@
+Ingredients: 
+
 quick oats
 almonds
 chocolate chips
