@@ -1,0 +1,4 @@
+code .gitignore
+**/*.log
+.DS_Store
+.ipynb_checkpoints
