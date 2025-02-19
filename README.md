@@ -1,8 +1,8 @@
 # Fancy Recipe
 ### Adding level 3 header
 
-repo contains
-ingredients 
+**repo contains**
+*ingredients*
 steps to recipe
 
 ### This is a REMOTE change :O
